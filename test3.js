@@ -125,6 +125,7 @@ export class TextInput extends PureComponent {
   };
 
   onDelete = () => {
+    console.log("test");
     const {
       pullRequestUUID,
       comment,
