@@ -55,7 +55,7 @@ const categoryOptionsFromGroups = categoryGroups => {
   options["other"] = otherOption;
   return { options, groups };
 };
-
+//Comment
 export class TextInput extends PureComponent {
   state = {
     inputMode: "write"
