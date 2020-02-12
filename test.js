@@ -4,8 +4,7 @@ console.log("B");
 debugger;
 console.log("C");
 debugger;
-console.log("D");
-debugger;
+console.log("D");debugger;
 if (foo == null) {
   bar();
 }
